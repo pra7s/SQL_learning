@@ -1,0 +1,1 @@
+This repository contains different SQL scripts, each focused on a specific type of task. For every script, I include the problem description, example input data, the SQL solution, a README explaining the reasoning behind the chosen approach, and the final output.
